@@ -1,0 +1,24 @@
+.sidebar {
+
+  margin: 0;
+  padding: 0;
+  width: 200px;
+   position: sticky;
+  height: 100%;
+  overflow: auto;
+  text-align: center;
+  float: left;
+ }
+
+
+
+.page-content{
+  margin-left: 200px;
+
+}
+
+.sidebar ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
